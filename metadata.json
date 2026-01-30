@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of ElevateAI - Your Smart Career Mentor",
+  "description": "An AI-powered career development platform featuring adaptive roadmaps, smart scheduling, a personalized mentor chatbot, and opportunity matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
